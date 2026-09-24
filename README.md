@@ -8,6 +8,11 @@ A API possui endpoints públicos para consulta dos serviços e endpoints autenti
 
 A arquitetura separa o **Catálogo de Serviços** do **Serviço de Ordens de Serviço**, estabelecendo responsabilidades e fronteiras independentes.
 
+## Links
+
+- [Documentação](https://docs.google.com/document/d/1GHMxOEjR8SpMjYrKcOpgKDxkH9dkHgxbHjT1KGJVvDI/edit?usp=sharing)
+- [Diagrama da Arquitetura](https://www.figma.com/board/0TqvNS8OBYyLad1Io0QhEw/autofix_diagram?node-id=0-1&t=rLfCm0Yk9l5c033q-1)
+
 ## Como validar
 
 Instale as dependências:
